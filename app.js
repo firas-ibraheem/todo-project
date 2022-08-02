@@ -45,8 +45,8 @@ function addTo() {
 } 
 addTo();
 console.log(myArr);
- // age();
-//Gender();
+age();
+Gender();
 
 
 
